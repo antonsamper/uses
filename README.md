@@ -1,4 +1,4 @@
-# Web dev
+# Web development
 
 * [WebStorm](https://www.jetbrains.com/webstorm/)
   * Appearance: `Darcula`
@@ -15,3 +15,5 @@
     * Plugins: `zsh-autosuggestions`
 * [Sourcetree](https://www.sourcetreeapp.com/)
 * [nvm](https://github.com/nvm-sh/nvm)
+* [gcloud cli](https://cloud.google.com/sdk/gcloud/)
+* [aws cli](https://aws.amazon.com/cli/)
