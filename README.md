@@ -3,6 +3,7 @@
 * Brave Browser
 * 1Password
 * homebrew
+  * nvm 
 * WebStorm
   * Appearance: `Darcula`
   * Scheme: `Material Palenight`
