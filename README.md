@@ -13,6 +13,7 @@
 * Hyper terminal
 * Brew
 * [Sourcetree](https://www.sourcetreeapp.com/)
+* gpg suite
 * [nvm](https://github.com/nvm-sh/nvm)
 * [gcloud cli](https://cloud.google.com/sdk/gcloud/)
 * [aws cli](https://aws.amazon.com/cli/)
