@@ -1,5 +1,6 @@
 # Web development
 
+* Brave Browser
 * [WebStorm](https://www.jetbrains.com/webstorm/)
   * Appearance: `Darcula`
   * Scheme: `Material Palenight`
