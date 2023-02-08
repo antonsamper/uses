@@ -1,6 +1,7 @@
 # Web development
 
 * Brave Browser
+* 1Password
 * [WebStorm](https://www.jetbrains.com/webstorm/)
   * Appearance: `Darcula`
   * Scheme: `Material Palenight`
