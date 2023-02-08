@@ -2,6 +2,7 @@
 
 * Brave Browser
 * 1Password
+* homebrew
 * [WebStorm](https://www.jetbrains.com/webstorm/)
   * Appearance: `Darcula`
   * Scheme: `Material Palenight`
