@@ -5,6 +5,7 @@
 * homebrew
   * nvm
   * awscli
+  * openconnect
   * google-cloud-sdk (cask)
 * webstorm
   * appearance: dracula
