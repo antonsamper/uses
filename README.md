@@ -4,6 +4,8 @@
 * 1password
 * homebrew
   * nvm
+  * zsh
+  * zsh-autosuggestions
   * awscli
   * openconnect
   * google-cloud-sdk (cask)
