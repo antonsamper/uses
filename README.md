@@ -16,3 +16,4 @@
 * sketch
 * teams
 * slack
+* better snap tool
