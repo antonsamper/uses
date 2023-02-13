@@ -23,3 +23,4 @@
 * transmit
 * transporter
 * flycut
+* displaylink manager
