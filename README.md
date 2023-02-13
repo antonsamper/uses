@@ -24,3 +24,4 @@
 * transporter
 * flycut
 * displaylink manager
+* vlc
