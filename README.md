@@ -25,3 +25,4 @@
 * flycut
 * displaylink manager
 * vlc
+* cleanmymac x
