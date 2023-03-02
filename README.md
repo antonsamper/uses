@@ -26,3 +26,4 @@
 * displaylink manager
 * vlc
 * cleanmymac x
+* postman
