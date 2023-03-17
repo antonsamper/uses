@@ -27,3 +27,6 @@
 * vlc
 * cleanmymac x
 * postman
+* discord
+* teams
+* slack
