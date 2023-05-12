@@ -13,7 +13,7 @@
   * appearance: dracula
   * scheme: material palenight
   * font: operator mono, 12pm, 1.4
-* hyper terminal
+* iterm2
 * sourcetree
 * gpg suite
 * sketch
