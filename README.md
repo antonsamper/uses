@@ -30,3 +30,7 @@
 * discord
 * teams
 * slack
+
+# Git shortcuts
+
+* Delete all local branches apart from the selected/current branch: `git branch | grep -v "$(git branch --show-current)" | xargs git branch -D`
