@@ -34,3 +34,20 @@
 # Git shortcuts
 
 * Delete all local branches apart from the selected/current branch: `git branch | grep -v "$(git branch --show-current)" | xargs git branch -D`
+* Stash unstaged changes
+```shell
+gitstashcustom() {
+  # stashes staged, leaving unstaged
+  git stash --staged
+
+  # stashes unstaged & untracked       
+  git stash -u
+
+  # pops staged back (but they're now unstaged)                
+  git stash pop "stash@{1}"
+ 
+  git add -A
+}
+
+alias stash-unstaged="gitstashcustom"
+```
