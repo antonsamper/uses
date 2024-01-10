@@ -3,7 +3,7 @@
 * brave browser
 * 1password
 * homebrew
-  * volta
+  * nvm or volta
   * zsh
   * zsh-autosuggestions
   * awscli
