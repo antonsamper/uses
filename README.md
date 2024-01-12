@@ -30,6 +30,7 @@
 * discord
 * teams
 * slack
+* whatsapp
 
 # Git shortcuts
 
